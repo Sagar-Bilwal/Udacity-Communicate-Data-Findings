@@ -25,11 +25,11 @@
 
 6) Distribution of traffic in months for subscriber and customer is similar as it first peaks in march and april and then traffic reduces in coming months but again it peaks in August to October time period. 
 
-7) There is some difference in traffic distribution in case of week as subscribers are much more during weekdays than in weekends but customers are almost same ie. around 50k during all daysof week. 
+7) There is some difference in traffic distribution in case of week as subscribers are much more during weekdays than in weekends but customers are almost same ie. around 50k during all days of week. 
 
-8) Again in hour distribution the peaks and decline is similar for both subscriber and customer with traffic peaking 7 am to 9 am and 4 pm to 7 pm
+8) Again in hour distribution the peaks and decline is similar for both subscriber and customer with traffic peaking 7 am to 9 am and 4 pm to 7 pm.
 
-9) Newbury Park Dr at King Rd has the highest Customer to Subscriber ratio of almost 6.9 which is much higher than other station hence it should be looked into why users of the station do not subscribe
+9) Newbury Park Dr at King Rd has the highest Customer to Subscriber ratio of almost 6.9 which is much higher than other station hence it should be looked into why users of the station do not subscribe.
 
 ## Key Insights for Presentation
 
